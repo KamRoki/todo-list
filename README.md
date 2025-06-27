@@ -46,8 +46,11 @@ streamlit run app.py
 
 ## 🌐 Usage
 After launching, open your browser. You will be able to:
+
 ✅ Add tasks with deadlines
+
 ✅ Mark tasks as completed using the ✔️ button
+
 ✅ Have tasks automatically removed upon completion
 
 ---
