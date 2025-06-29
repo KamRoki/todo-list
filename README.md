@@ -21,7 +21,7 @@ ToDo List App is a minimalist application built with Python and Streamlit, allow
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/todo-list-app.git
+git clone https://github.com/KamRoki/todo-list.git
 cd todo-list-app
 ```
 
